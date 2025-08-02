@@ -1,8 +1,11 @@
-# programacao-backend
+# Programação Backend
 Atividades das aulas de Programação Backend no SENAI, utilizando Django e Django REST Framework.
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width:100px;" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" style="width:100px;" /></code>
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:100px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width:100px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" style="width:100px;" />
+</div>
 
 ## Aula 01 (01/08/2025): Configuração inicial do ambiente virtual
 - Criação do ambiente virtual
