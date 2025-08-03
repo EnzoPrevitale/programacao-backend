@@ -7,6 +7,8 @@ Atividades das aulas de Programação Backend no SENAI, utilizando Django e Djan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" style="width:100px;" />
 </div>
 
+O objetivo do projeto é criar uma API para o sistema de uma livraria completamente funcional.
+
 ## Aula 01 (01/08/2025): Configuração inicial do ambiente virtual
 - Criação do ambiente virtual
 - Instalação do Django, Django REST Framework e Django Cors Headers
