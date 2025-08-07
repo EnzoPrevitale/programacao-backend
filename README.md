@@ -10,3 +10,6 @@ Atividades das aulas de Programação Backend no SENAI, utilizando Django e Djan
 - Criação do requirements.txt (pip freeze > requirements.txt)
 - Criação do projeto e da aplicação Django (django-admin startproject livraria . ; django-admin startapp api)
 - Upload do projeto no Github
+
+## Aula 02 (07/08/2025): Início do desenvolvimento do projeto
+- Instalação do Pandas (pip install pandas)
