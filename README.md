@@ -29,3 +29,4 @@ Acessar em http://127.0.0.1:8000/
 - Criação dos serializers do Rest Framework
 - Criação das views
 - Criação da URLs intrínsecas à API
+- Registro da API em admin
