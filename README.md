@@ -18,3 +18,4 @@ O objetivo do projeto é criar uma API para o sistema de uma livraria completame
 
 ## Aula 02 (07/08/2025): Início do desenvolvimento do projeto
 - Instalação do Pandas (pip install pandas)
+- Primeira inicialização do projeto
