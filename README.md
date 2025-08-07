@@ -18,4 +18,7 @@ O objetivo do projeto é criar uma API para o sistema de uma livraria completame
 
 ## Aula 02 (07/08/2025): Início do desenvolvimento do projeto
 - Instalação do Pandas (pip install pandas)
-- Primeira inicialização do projeto
+- Primeira inicialização do projeto (py manage.py runserver)
+- Criação do modelo Author em models.py
+- Criação das migrações (py manage.py makemigrations)
+- Migração (py manage.py migrate)
