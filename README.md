@@ -27,3 +27,5 @@ Acessar em http://127.0.0.1:8000/
 - Criação do usuário administrador admin (senha: 123) (py manage.py createsuperuser)
 - Criação da URL para a API (http://127.0.0.1:8000/api/)
 - Criação dos serializers do Rest Framework
+- Criação das views
+- Criação da URLs intrínsecas à API

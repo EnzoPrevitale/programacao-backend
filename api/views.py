@@ -4,4 +4,5 @@ from .models import Author
 from .serializers import AuthorSerializers
 
 class AuthorsView(ListCreateAPIView):
-    
+    queryset = Author.objects.all()
+    serializer_class = AuthorSerializers
