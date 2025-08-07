@@ -8,6 +8,7 @@ Atividades das aulas de Programação Backend no SENAI, utilizando Django e Djan
 </div>
 
 O objetivo do projeto é criar uma API para o sistema de uma livraria completamente funcional.
+Acessar em http://127.0.0.1:8000/
 
 ## Aula 01 (01/08/2025): Configuração inicial do ambiente virtual
 - Criação do ambiente virtual (python -m venv env)
@@ -22,3 +23,7 @@ O objetivo do projeto é criar uma API para o sistema de uma livraria completame
 - Criação do modelo Author em models.py
 - Criação das migrações (py manage.py makemigrations)
 - Migração (py manage.py migrate)
+- Acesso ao /admin
+- Criação do usuário administrador admin (senha: 123) (py manage.py createsuperuser)
+- Criação da URL para a API (http://127.0.0.1:8000/api/)
+- Criação dos serializers do Rest Framework
