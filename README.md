@@ -33,3 +33,17 @@ Acessar em http://127.0.0.1:8000/
 
 ## Aula 03 (08/08/2025): Cinema
 - Absolute cinema
+- ### Framework
+  - Aglomerado de bibliotecas
+  - Facilitador para o desenvolvimento em volta de certa linguagem
+- ### MVC Pattern
+  - Model - View - Controller
+  - Usuário -> Controller -> Model -> Controller -> View -> Controller -> Usuário
+  - Model: Lógica dos dados; interage com o banco de dados
+  - View: Apresentação dos dados
+  - Controller: Controla requisições e comunicação View-Model
+- ### API
+  - Centro entre comunicação front-back pela internet
+  - Comunicação HTTP
+  - Endpoint
+    - Caminho Back-Front
