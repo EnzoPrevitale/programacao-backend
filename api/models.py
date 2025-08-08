@@ -9,3 +9,10 @@ class Author(models.Model):
 
     def __str__(self):
         return f"{self.name} {self.surname}"
+    
+class Book(models.Model):
+    title = models.CharField(max_length=255)
+    author = models.ForeignKey(Author, on_delete=models.CASCADE, default=0)
+    release_date = models.DateField(null=True, blank=True)
+    country = models.CharField(null=True, blank=True)
+    synopsis = models.TextField(null=True, blank=True)
