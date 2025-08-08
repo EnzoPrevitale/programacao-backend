@@ -36,6 +36,7 @@ Acessar em http://127.0.0.1:8000/
 - ### Framework
   - Aglomerado de bibliotecas
   - Facilitador para o desenvolvimento em volta de certa linguagem
+  - Caixa-Preta: código que não temos interesse em saber como foi desenvolvido
 - ### MVC Pattern
   - Model - View - Controller
   - Usuário -> Controller -> Model -> Controller -> View -> Controller -> Usuário
@@ -47,3 +48,11 @@ Acessar em http://127.0.0.1:8000/
   - Comunicação HTTP
   - Endpoint
     - Caminho Back-Front
+  - Serializers
+    - Disposição dos dados no formato desejado, comumente JSON ou XML
+- ### Django: MTV Pattern
+  - Usuário -> View <- Model e Template
+  - Template: HTML e DTL (Django Template Language)
+  - Code First
+    - Criar tabelas a partir do próprio código
+  
