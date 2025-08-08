@@ -30,3 +30,6 @@ Acessar em http://127.0.0.1:8000/
 - Criação das views
 - Criação da URLs intrínsecas à API
 - Registro da API em admin
+
+## Aula 03 (08/08/2025): Cinema
+- Absolute cinema
